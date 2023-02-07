@@ -1,0 +1,46 @@
+
+  .container-center {
+  
+    position: relative;
+    padding: 50px 50px;
+    background: #fff;
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-top:40px
+  }
+   h1 {
+    
+    border-left: 5px solid rgb(138, 173, 209);
+    margin-bottom: 60px;
+    padding: 5px;
+    color: rgb(46, 43, 43);    
+    font-weight: bold;
+    padding-left: 10px;
+    letter-spacing: 5px;
+  }
+   .formfield {
+    position: relative;
+    width: 300px;
+    height: 40px;
+    margin-bottom: 20px;
+    margin-top:20px;
+    display: flex;
+    flex-direction: row;
+    float: inline-end;
+    align-items: baseline;
+    
+  }
+
+  .formfield [type="button"] {
+
+    border: #fff;
+    cursor: pointer;
+    width: 100%;
+    color: #fff;
+    background: dodgerblue;
+    
+  }
+ .button {
+    margin-left: 20px;
+ }
+

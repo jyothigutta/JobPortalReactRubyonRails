@@ -1,0 +1,6 @@
+.showcontainer {    
+    display: flex;
+    margin-top:50px;    
+    justify-content: center;
+    flex-wrap: wrap ;
+}
